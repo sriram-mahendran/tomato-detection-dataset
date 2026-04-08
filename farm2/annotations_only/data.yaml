@@ -1,0 +1,7 @@
+nc: 3
+names:
+  - b_green
+  - b_half_ripened
+  - b_fully_ripened
+train: images/train
+val: images/val
