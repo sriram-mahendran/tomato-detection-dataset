@@ -86,7 +86,7 @@ This dataset can be used for:
 A typical dataset structure may look like:
 
 ```
-Annotated/
+main/
 │
 ├── farm1/
 │   ├── images/
