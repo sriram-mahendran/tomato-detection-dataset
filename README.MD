@@ -69,6 +69,39 @@ names:
 * **b_fully_ripened**
   Represents fully ripened tomatoes that are predominantly red and ready for harvest.
 
+## Sample images Farm 1
+<p align="center">
+  <img src="img/v (6).png" width="700"/>
+</p>
+
+
+## Class Distribution of Farm 1
+<p align="center">
+  <img src="img/v (5).png" width="700"/>
+</p>
+
+## Sample Images Farm 2
+<p align="center">
+  <img src="img/v (4).png" width="700"/>
+</p>
+
+
+## Class Distribution of Farm 2
+<p align="center">
+  <img src="img/v (3).png" width="700"/>
+</p>
+
+## Bounding Box Size Distribution (ENTIRE DATASET)
+<p align="center">
+  <img src="img/v (2).png" width="700"/>
+</p>
+
+## Class Distribution Farm 1 vs Farm 2
+<p align="center">
+  <img src="img/v (1).png" width="700"/>
+</p>
+
+
 ---
 
 ## Use Cases
