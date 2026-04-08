@@ -22,6 +22,8 @@ Each image includes one or more tomatoes growing on plants in natural field cond
 * Different camera angles and distances
 * Natural background noise (soil, sky, other plants)
 
+Use this GDrive link to access the RAW images
+[Tomato Detection Dataset RAW](https://drive.google.com/file/d/12MwEHNF-C7muyf42tTd7eQLVZJnkoFcm/view?usp=sharing)
 ---
 
 ## Annotation Format
